@@ -31,12 +31,29 @@
 
 
 <p align="center">
-  <img alt="Demo 00 on Localhost" src="./src/assets/banner00.png">
+  <img alt="video-capture" src="./assets/video-capture.gif">
 </p>
 
 <p align="center">
-  <img alt="Demo 01 on Localhost" src="./src/assets/banner01.png">
+  <img alt="capture-00" src="./assets/capture-00.jpeg">
 </p>
+
+<p align="center">
+  <img alt="capture-01" src="./assets/capture-01.jpeg">
+</p>
+
+<p align="center">
+  <img alt="capture-02" src="./assets/capture-02.jpeg">
+</p>
+
+<p align="center">
+  <img alt="capture-03" src="./assets/capture-03.jpeg">
+</p>
+
+<p align="center">
+  <img alt="capture-04" src="./assets/capture-04.jpeg">
+</p>
+
 
 
 ## :rocket: Tecnologias
@@ -94,11 +111,13 @@ Para gerenciamento de estados optei pelo Mobx. Um state-management que facilita 
 
 - Utilização de Packages
 
-Alguns packages merecem menção, são eles:
-    flutter_svg: Para renderização de imagens SVG.
-    font_awesome_flutter: Fonte de ícones de toda a aplicação.
-    google_fonts: Daqui veio a fonte Roboto.
-    animated_text_kit: Utilizado para animar o texto da Splash screen.
+Alguns packages merecem menção, são eles: 
+
+[dio](https://pub.dev/packages/dio) para fazer todas as requisições get, 
+[flutter_svg](https://pub.dev/packages/flutter_svg) para renderização de imagens SVG, 
+[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) fonte de ícones de toda a aplicação, 
+[google_fonts](https://pub.dev/packages/google_fonts) daqui veio a fonte Roboto, 
+[animated_text_kit](https://pub.dev/packages/animated_text_kit) utilizado para animar o texto da Splash screen.
 
 - O Projeto
 
