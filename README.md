@@ -32,28 +32,15 @@
 
 <p align="center">
   <img alt="video-capture" src="./assets/video-capture.gif">
-</p>
-
-<p align="center">
   <img alt="capture-00" src="./assets/capture-00.jpeg">
-</p>
-
-<p align="center">
   <img alt="capture-01" src="./assets/capture-01.jpeg">
 </p>
 
 <p align="center">
   <img alt="capture-02" src="./assets/capture-02.jpeg">
-</p>
-
-<p align="center">
   <img alt="capture-03" src="./assets/capture-03.jpeg">
-</p>
-
-<p align="center">
   <img alt="capture-04" src="./assets/capture-04.jpeg">
 </p>
-
 
 
 ## :rocket: Tecnologias
