@@ -64,6 +64,17 @@ mixin _$ProfileController on _ProfileControllerBase, Store {
   }
 
   @override
+  dynamic fetchRepositories(dynamic user) {
+    final _$actionInfo = _$_ProfileControllerBaseActionController.startAction(
+        name: '_ProfileControllerBase.fetchRepositories');
+    try {
+      return super.fetchRepositories(user);
+    } finally {
+      _$_ProfileControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
   String toString() {
     return '''
 profile: ${profile},
