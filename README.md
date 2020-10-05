@@ -31,15 +31,15 @@
 
 
 <p align="center">
-  <img alt="video-capture" src="./assets/video-capture.gif">
-  <img alt="capture-00" src="./assets/capture-00.jpeg">
-  <img alt="capture-01" src="./assets/capture-01.jpeg">
+  <img alt="video-capture" src="./assets/video-capture.gif" height="500">
+  <img alt="capture-00" src="./assets/capture-00.jpeg" height="500">
+  <img alt="capture-01" src="./assets/capture-01.jpeg" height="500">
 </p>
 
 <p align="center">
-  <img alt="capture-02" src="./assets/capture-02.jpeg">
-  <img alt="capture-03" src="./assets/capture-03.jpeg">
-  <img alt="capture-04" src="./assets/capture-04.jpeg">
+  <img alt="capture-02" src="./assets/capture-02.jpeg" height="500">
+  <img alt="capture-03" src="./assets/capture-03.jpeg" height="500">
+  <img alt="capture-04" src="./assets/capture-04.jpeg" height="500">
 </p>
 
 
